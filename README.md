@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Learning-Flutter%20%26%20UI%2FUX-orange?style=flat-square" alt="Learning">
 </p>
 
-Ostim Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Backend mimarileri ve siber güvenliğin yanı sıra, güncel olarak **Mobil Uygulama Geliştirme (Flutter)** ve **Kullanıcı Deneyimi (UI/UX)** üzerine yoğunlaşıyorum. Hem sistemin kalbinde (Backend) hem de kullanıcıya değen kısmında (Mobile/UI) projeler üretiyorum.
+Ostim Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Backend mimarileri ve springboot üzerimde çalışyorum. Son zamanlarda persona stajım gereği biraz daha frontend( UI/ UX tasarımı ve Flutter) üzerin de çalışmaktayım. Kariyerime backend developer olarak devam etmek istiyorum. 
 
 ---
 
