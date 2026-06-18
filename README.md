@@ -1,12 +1,8 @@
 #  Merhaba, Ben Hakan AKILLI
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-3rd%20Year%20Computer%20Engineering-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cyber%20Security-red?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Learning-Flutter%20%26%20UI%2FUX-orange?style=flat-square" alt="Learning">
-</p>
 
-Ostim Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Backend mimarileri ve springboot üzerimde çalışyorum. Son zamanlarda persona stajım gereği biraz daha frontend( UI/ UX tasarımı ve Flutter) üzerin de çalışmaktayım. Kariyerime backend developer olarak devam etmek istiyorum. 
+
+Ostim Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Son zamanlarda İnfodif stajım gereği java springboot üzerimde üzerin de çalışmaktayım. Kariyerime backend developer olarak devam etmek istiyorum. 
 
 ---
 
@@ -14,8 +10,7 @@ Ostim Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Backend
 
 | Kategori | Teknolojiler |
 | :--- | :--- |
-| **Backend & Veritabanı** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) |
-| **Frontend & Mobile** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
+| **Backend & Veritabanı** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)  
 | **Oyun & Simülasyon** | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **Araçlar & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
@@ -23,13 +18,14 @@ Ostim Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Backend
 
 ### Deneyim & Eğitim
 
-#### Persona | Stajyer (Devam Ediyor)
-* **Odak Alanı:** SQL, JavaScript ve Flutter ile mobil uygulama geliştirme süreçleri.
-* **UI/UX Tasarım:** Kullanıcı dostu arayüzler tasarlama ve modern tasarım prensiplerini uygulamaya dökme eğitimi.
-
 #### Infodif | Yazılım Mühendisliği Stajyeri
 * Java/Spring Boot ile kurumsal backend servisleri ve REST API geliştirme tecrübesi.
 * PostgreSQL optimizasyonu ve birim test yönetimi.
+
+#### Persona | Stajyer 
+* **Odak Alanı:** SQL, JavaScript ve Flutter ile mobil uygulama geliştirme süreçleri.
+* **UI/UX Tasarım:** Kullanıcı dostu arayüzler tasarlama ve modern tasarım prensiplerini uygulamaya dökme eğitimi.
+
 
 ####  Eğitim & Sertifika
 * **Ostim Teknik Üniversitesi** | Bilgisayar Mühendisliği (3. Sınıf)
