@@ -50,30 +50,9 @@ Ostim Teknik Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim. Son zam
 * **Açıklama:** Siber saldırı tespiti için AdaBoost ve Random Forest algoritmaları kullanılarak geliştirilen sınıflandırma modeli.
 * **Teknik:** Veri ön işleme, özellik seçimi ve GridSearchCV ile model optimizasyonu.
 
----
-
-###  GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hakan-AKILLI&show_icons=true&theme=radical&hide_border=true" alt="Hakan's GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-AKILLI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150">
-</p>
 
 ---
 ### 📫 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hakan-AKILLI)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hakan.akilli.74@gmail.com)
 
-<!--
-**Hakan-AKILLI/Hakan-AKILLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
